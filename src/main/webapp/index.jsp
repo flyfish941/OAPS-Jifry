@@ -124,7 +124,6 @@
         <a href="Controller?page=contact">Contact</a>
         <a href="Controller?page=administrator">Admin</a>
 
-
         <form action="Controller" method="post">
             <input type="hidden" name="page" value="search">
             <input type="text" name="search2">
